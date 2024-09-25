@@ -8,7 +8,7 @@ Video ist here, check it out!
 ## Basic Code
 -> python-dotenv.py
 
-## Fikes
+## Files
 -> .env
 
 -> .secrets
